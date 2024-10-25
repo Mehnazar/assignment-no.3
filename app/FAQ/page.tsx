@@ -1,9 +1,7 @@
 import Footer from "../component/footer/footer";
 import Header from "../component/header/header";
 
-function FAQ(){
-
-     
+export default function FAQ(){     
         return(
             <main>
               <Header></Header>
@@ -49,4 +47,4 @@ function FAQ(){
   );
 };
 
-export default FAQ;
+
