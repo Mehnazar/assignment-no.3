@@ -95,10 +95,7 @@ and we encourage you to review their privacy policies.
     understood this Privacy Policy. Thank you for trusting **Educational
     Pedia** with your information!
   </p>
-
-
  
-
 <Footer></Footer>
   </div>      
   </main>          

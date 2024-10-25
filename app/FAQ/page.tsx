@@ -11,7 +11,7 @@ function FAQ(){
               <div className="bg-[url('/bkimages.jpeg')] h-[600px] bg-no-repeat w-full bg-cover">
             <div className="text-justify px-8 py-6 content-between-5 text-white">
               
-            <h1 className=" text 3x1 bold">FAQ</h1>
+            <p className=" text-5x1 font-bold py-6">FAQ</p>
             
             
       <li>Question: "What is Artificial Intelligence (AI)?",</li>
