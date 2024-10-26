@@ -6,7 +6,7 @@ function Header() {
 
           {/* Logo */}
           <div>
-        <h1 className="text-6xl font-semibold italic bg-slate-400 text-cyan-700">Educational Pedia</h1>
+        <h1 className="text-9xl text-center italic bg-slate-400 text-cyan-700">Educational Pedia</h1>
       </div>
 
       {/* Navigation Links */}
